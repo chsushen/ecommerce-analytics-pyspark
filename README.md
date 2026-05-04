@@ -46,7 +46,7 @@ This project implements a scalable big data analytics pipeline for an e-commerce
 ---
 
 ## 👨‍🏫 Guide
-Syed Sir  
+Syed Ismail Sir  
 
 ---
 
